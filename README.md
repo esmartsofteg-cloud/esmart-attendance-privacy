@@ -32,7 +32,7 @@ The privacy policy is implemented as a **responsive HTML page** (`index.html`) s
 ## How to Use
 
 1. Copy the `index.html` file to your web server or app assets folder.
-2. Ensure it is accessible via a URL (e.g., `https://yourdomain.com/privacy.html`).
+2. Ensure it is accessible via a URL (e.g., `https://esmartsofteg-cloud.github.io/esmart-attendance-privacy/`).
 3. Link to this URL in your **Google Play Store listing** under Privacy Policy.
 
 Example link in your app listing:
